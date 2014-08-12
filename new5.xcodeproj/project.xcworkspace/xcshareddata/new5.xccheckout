@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>490BFE44-E7C9-47BC-96CB-CA8B9CA11D1F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>new5</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F4C91C28-856D-40C1-B0BA-3F21845AF4F1</key>
+		<string>https://github.com/xiaoyanArya/new5.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>new5.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F4C91C28-856D-40C1-B0BA-3F21845AF4F1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/xiaoyanArya/new5.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F4C91C28-856D-40C1-B0BA-3F21845AF4F1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F4C91C28-856D-40C1-B0BA-3F21845AF4F1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>new5</string>
+		</dict>
+	</array>
+</dict>
+</plist>
