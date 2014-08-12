@@ -27,9 +27,13 @@
 }
 
 - (IBAction)buttonPressed:(id)sender {
+<<<<<<< HEAD
     
     NSString *title = [sender titleForState:UIControlStateNormal];
     
     _Label.text = [NSString stringWithFormat:@"%@ button is pressed.", title];
+=======
+    _label.text = @"Clicked";
+>>>>>>> FETCH_HEAD
 }
 @end
