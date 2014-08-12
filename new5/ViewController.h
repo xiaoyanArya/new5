@@ -10,10 +10,6 @@
 
 @interface ViewController : UIViewController
 - (IBAction)buttonPressed:(id)sender;
-<<<<<<< HEAD
 @property (weak, nonatomic) IBOutlet UILabel *Label;
-=======
-@property (weak, nonatomic) IBOutlet UILabel *label;
->>>>>>> FETCH_HEAD
 
 @end
