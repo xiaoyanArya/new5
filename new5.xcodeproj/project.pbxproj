@@ -7,8 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0A5F80631999978300ACE86F /* iPhoneView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0A5F80621999978300ACE86F /* iPhoneView.xib */; };
-		0AA0E7B9199996D600E9C0C8 /* BIDViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AA0E7B8199996D600E9C0C8 /* BIDViewController.m */; };
 		0AC1189F1999955E0066454D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0AC1189E1999955E0066454D /* Foundation.framework */; };
 		0AC118A11999955E0066454D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0AC118A01999955E0066454D /* CoreGraphics.framework */; };
 		0AC118A31999955E0066454D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0AC118A21999955E0066454D /* UIKit.framework */; };
@@ -36,9 +34,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0A5F80621999978300ACE86F /* iPhoneView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = iPhoneView.xib; sourceTree = "<group>"; };
-		0AA0E7B7199996D600E9C0C8 /* BIDViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BIDViewController.h; sourceTree = "<group>"; };
-		0AA0E7B8199996D600E9C0C8 /* BIDViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BIDViewController.m; sourceTree = "<group>"; };
 		0AC1189B1999955E0066454D /* new5.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = new5.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0AC1189E1999955E0066454D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		0AC118A01999955E0066454D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -124,9 +119,6 @@
 				0AC118B41999955E0066454D /* ViewController.m */,
 				0AC118B61999955E0066454D /* Images.xcassets */,
 				0AC118A51999955E0066454D /* Supporting Files */,
-				0AA0E7B7199996D600E9C0C8 /* BIDViewController.h */,
-				0AA0E7B8199996D600E9C0C8 /* BIDViewController.m */,
-				0A5F80621999978300ACE86F /* iPhoneView.xib */,
 			);
 			path = new5;
 			sourceTree = "<group>";
@@ -237,7 +229,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				0AC118B71999955E0066454D /* Images.xcassets in Resources */,
-				0A5F80631999978300ACE86F /* iPhoneView.xib in Resources */,
 				0AC118A91999955E0066454D /* InfoPlist.strings in Resources */,
 				0AC118B21999955E0066454D /* Main.storyboard in Resources */,
 			);
@@ -258,7 +249,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0AA0E7B9199996D600E9C0C8 /* BIDViewController.m in Sources */,
 				0AC118B51999955E0066454D /* ViewController.m in Sources */,
 				0AC118AF1999955E0066454D /* AppDelegate.m in Sources */,
 				0AC118AB1999955E0066454D /* main.m in Sources */,
